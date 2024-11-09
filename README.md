@@ -1,2 +1,37 @@
-# rockpaperscissor
-A simple command-line Rock-Paper-Scissors game in Python! Play against the computer by choosing a number from 1 to 3: 1 = Rock 🪨, 2 = Paper 📄, 3 = Scissors ✂️. The computer makes a random choice, and the result shows if you win, lose, or tie. Type "quit" to exit. Fun, interactive, and endless gameplay—perfect for a quick game in your terminal!
+**Rock Paper Scissors Game 🎮**
+
+A simple command-line Rock-Paper-Scissors game implemented in Python, where you play against the computer! In this version, you choose your move by selecting a number between 1 and 3:
+
+  1 = Rock 🪨
+  2 = Paper 📄
+  3 = Scissors ✂️
+
+  **How to Play**
+1. Run the game in your terminal.
+2. Enter a number between 1 and 3 to make your choice:
+   - **1 for Rock**
+   - **2 for Paper**
+   - **3 for Scissors**
+3. The computer will also make a random choice.
+4. The game will display the result—whether you win, lose, or tie!
+5. The game runs indefinitely until you type "quit" to exit.
+
+  **Features**
+- Randomly generated moves for the computer.
+- Infinite gameplay loop with an option to quit.
+- Friendly messages to guide your input and display results.
+
+### Example
+
+```bash
+Enter your choice: 
+1. Rock 🪨
+2. Paper 📄
+3. Scissors ✂️
+4. Quit
+Choice: 1
+Computer chose: Scissors
+You win! 🎉
+```
+
+Feel free to clone this repository and enjoy a quick game of Rock-Paper-Scissors in your terminal!
