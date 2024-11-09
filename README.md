@@ -1,4 +1,6 @@
 **Rock Paper Scissors Game 🎮**
+![image](https://github.com/user-attachments/assets/997c337a-ad0a-45df-99ba-19e5f5e193e1)
+
 
 A simple command-line Rock-Paper-Scissors game implemented in Python, where you play against the computer! In this version, you choose your move by selecting a number between 1 and 3:
 
